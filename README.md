@@ -24,13 +24,10 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 ## Availability and compatibility
 
-[View in the AppStore](https://apps.apple.com/app/armada-battle-fleet-builder/id1575403964)
+[View in the AppStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
 
 This app is currently compatible with **iPhone devices running iOS 16 or higher**, and is available in the following stores:
 * Europe (all countries)
-* Canada
-* United States
-* Latin America (all countries)
 
 ## Version history
 
