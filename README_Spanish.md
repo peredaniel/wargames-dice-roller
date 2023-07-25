@@ -31,6 +31,17 @@ Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 
 
 ## Histórico de versiones
 
+### Versión 1.1
+
+* Nuevas funcionalidades:
+	- Añadida funcionalidad para sumar o restar un valor a una tirada de tipo "suma de dados" (entre 0 y 15).
+	- Añadida funcionalidad para definir éxitos y críticos con comparaciones "mayor o igual", "igual" o "menor o igual" a un valor del dado. Compatible con juegos D20 tipo Infinity®.
+
+* Corrección de errores:
+	- Corregida la computación de éxitos y críticos: ahora los críticos son un caso especial de éxito, en lugar de un resultado independiente.
+	- Corregidos algunos errores en las traducciones.
+	- Corregido un error que causaba que el histórico no se ordenara correctamente.
+
 ### Versión 1.0
 
 Publicación inicial de la aplicación.

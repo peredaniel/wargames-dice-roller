@@ -31,6 +31,17 @@ This app is currently compatible with **iPhone devices running iOS 16 or higher*
 
 ## Version history
 
+### Version 1.1
+
+* New features:
+	- Added functionality to add or subtract a value to the result of a "sum dice values" roll (between 0 and 15).
+	- Added functionality to define successes and criticals with comparisons of the type "greater or equal than", "equal to" and "lower or equal than" a dice value. Compatible with D20 games such as Infinity®.
+
+* Bugfixes
+	- Fixed computation of successes and criticals: now criticals are a particular case of successes, rather than an independent result.
+	- Fixed some translations typos.
+	- Fixed an issue causing the History Log to be sorted incorrectly.
+
 ### Version 1.0
 
 Initial app release.

@@ -31,6 +31,17 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 16
 
 ## Històric de versions
 
+### Versió 1.1
+
+* Noves funcionalitats:
+	- Afegida funcionalitat per a sumar o restar un valor a una tirada de tipus "sumar daus" (entre 0 i 15).
+	- Afegida funcionalitat per a definir èxits i crítics amb comparacions "major o igual", "igual" o "menor o igual" a un valor del dau. Compatible amb jocs D20 tipus Infinity®.
+
+* Correccions d'errors:
+	- Corregida la computació d'èxits i crítics: ara els crítics són casos especials d'èxits, enlloc de tirades independents.
+	- Corregits alguns errors en les traduccions a castellà i anglès.
+	- Corregit un error que causava que l'històric no quedés ordenat correctament.
+
 ### Versió 1.0
 
 Publicació inicial de l'aplicació
