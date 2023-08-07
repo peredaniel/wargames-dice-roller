@@ -12,7 +12,7 @@ Quan ens informis d'un error, si us plau inclou el màxim d'informació no perso
 
 ## Política de Privacitat
 
-Aquesta Política de Privacitat regeix l'ús del programari _Wargames Dice Roller_ (en endavant, l'"Aplicació") per a dispositius iOS.
+Aquesta Política de Privacitat regeix l'ús del programari _Wargames Dice Roller_ (en endavant, l'"Aplicació") per a dispositius iOS i Android.
 
 ### Quina informació recull l'Aplicació i per a què es fa servir?
 
@@ -26,12 +26,20 @@ Aquesta Política de Privacitat pot veure's actualitzada de tant en tant per qua
 
 [Vegeu-la en l'AppStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
 
-Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 16 o superior**, i es troba disponible en les regions següents:
+[Vegeu-la en la PlayStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
+
+Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 16 o superior** i **dispositius Android amb Android 9 o superior**, i es troba disponible en les regions següents:
 * Europa (tots els països)
 
 ## Històric de versions
 
-### Versió 1.1
+### iOS
+
+#### Versió 1.1.1
+
+* Correcció d'alguns errors en textos sorgits en l'anterior actualització.
+
+#### Versió 1.1
 
 * Noves funcionalitats:
 	- Afegida funcionalitat per a sumar o restar un valor a una tirada de tipus "sumar daus" (entre 0 i 15).
@@ -42,9 +50,9 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 16
 	- Corregits alguns errors en les traduccions a castellà i anglès.
 	- Corregit un error que causava que l'històric no quedés ordenat correctament.
 
-### Versió 1.0
+#### Versió 1.0
 
-Publicació inicial de l'aplicació
+Publicació inicial de l'aplicació.
 
 * Funcionalitats incloses:
 	- Funcionalitat per a realitzar una única tirada de múltiples daus.
@@ -52,3 +60,18 @@ Publicació inicial de l'aplicació
 	- Funcionalitat per a afegir passos post-tirada inicial, com ara afegir o descartar daus, tornar a tirar daus o canviar resultats de daus concrets.
 	- Persistència en disc per a tirada, ja sigui per a consultar-les en un hisòric o bé per a tornar a realitzar una tirada amb els mateixos paràmetres.
 	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
+
+### Android
+
+#### Versió 1.0
+
+Publicació inicial de l'aplicació, equivalent a la versió 1.1.1 en iOS.
+
+* Funcionalitats incloses:
+	- Funcionalitat per a realitzar una única tirada de múltiples daus.
+	- Funcionalitat per a computar diferents resultats d'una tirada, incloent sumar daus, concatenar dígits i comptar èxits/fracassos amb llindars.
+	- Funcionalitat per a afegir passos post-tirada inicial, com ara afegir o descartar daus, tornar a tirar daus o canviar resultats de daus concrets.
+	- Persistència en disc per a tirada, ja sigui per a consultar-les en un hisòric o bé per a tornar a realitzar una tirada amb els mateixos paràmetres.
+	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
+	- Funcionalitat per a sumar o restar un valor a una tirada de tipus "sumar daus" (entre 0 i 15).
+	- Funcionalitat per a definir èxits i crítics amb comparacions "major o igual", "igual" o "menor o igual" a un valor del dau. Compatible amb jocs D20 tipus Infinity®.

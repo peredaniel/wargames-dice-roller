@@ -12,7 +12,7 @@ When reporting a bug, please include as much relevant non-personal information a
 
 ## Privacy policy
 
-This privacy policy governs your use of the software application _Wargames Dice Roller_ ("Application") for iOS devices.
+This privacy policy governs your use of the software application _Wargames Dice Roller_ ("Application") for iOS and Android devices.
 
 ### What information does the Application obtain and how is it used?
 
@@ -26,12 +26,20 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 [View in the AppStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
 
-This app is currently compatible with **iPhone devices running iOS 16 or higher**, and is available in the following stores:
+[View in the PlayStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
+
+The iOS app is currently compatible with **iPhone devices running iOS 16 or higher**. The Android app is compatible with devices running **Android 9 or higher**, and is available in the following stores:
 * Europe (all countries)
 
 ## Version history
 
-### Version 1.1
+### iOS
+
+#### Version 1.1.1
+
+* Fix some errors on localized texts arising from the previous update.
+
+#### Version 1.1
 
 * New features:
 	- Added functionality to add or subtract a value to the result of a "sum dice values" roll (between 0 and 15).
@@ -42,7 +50,7 @@ This app is currently compatible with **iPhone devices running iOS 16 or higher*
 	- Fixed some translations typos.
 	- Fixed an issue causing the History Log to be sorted incorrectly.
 
-### Version 1.0
+#### Version 1.0
 
 Initial app release.
 
@@ -52,3 +60,18 @@ Initial app release.
 	- Feature to add post-roll steps to the roll, such as adding/discarding dices, rerolls or replacements.
 	- Persistance for rolls, either to consult them or to perform a new roll with the same parameters.
 	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
+
+### Android
+
+#### Version 1.0
+
+Initial app release. Equivalent to iOS version 1.1.1.
+
+* Features included:
+	- Dice roller feature to perform a single roll with multiple dices.
+	- Result feature to compute different outcomes from the roll, including summing results, concatenating and counting successes/failures with thresholds.
+	- Feature to add post-roll steps to the roll, such as adding/discarding dices, rerolls or replacements.
+	- Persistance for rolls, either to consult them or to perform a new roll with the same parameters.
+	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
+	- Feature to add or subtract a value to the result of a "sum dice values" roll (between 0 and 15).
+	- Feature to define successes and criticals with comparisons of the type "greater or equal than", "equal to" and "lower or equal than" a dice value. Compatible with D20 games such as Infinity®.

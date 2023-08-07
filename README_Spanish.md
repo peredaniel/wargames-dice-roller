@@ -12,7 +12,7 @@ Cuando reportes un error, por favor incluye tanta información relevante y no pe
 
 ## Política de privacidad
 
-Esta política de privacidad rige el use de la aplicación de software _Wargames Dice Roller_ ("Aplicación") para dispositivos iOS.
+Esta política de privacidad rige el use de la aplicación de software _Wargames Dice Roller_ ("Aplicación") para dispositivos iOS y Android.
 
 ### ¿Qué información recolecta la Aplicación y para qué se usa? 
 
@@ -26,12 +26,20 @@ Esta Política de privacidad puede ser actualizada de vez en cuando por cualquie
 
 [Ver en la AppStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
 
-Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 16 o superior**, y se encuentra disponible en las siguientes regiones:
+[Ver en la PlayStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
+
+Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 16 o superior** y **dispositivos Android usando Android 9 o superior**, y se encuentra disponible en las siguientes regiones:
 * Europa (todos los países)
 
 ## Histórico de versiones
 
-### Versión 1.1
+### iOS
+
+#### Versión 1.1.1
+
+* Corrección de algunos errores en textos surgidos en la anterior actualización.
+
+#### Versión 1.1
 
 * Nuevas funcionalidades:
 	- Añadida funcionalidad para sumar o restar un valor a una tirada de tipo "suma de dados" (entre 0 y 15).
@@ -42,7 +50,7 @@ Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 
 	- Corregidos algunos errores en las traducciones.
 	- Corregido un error que causaba que el histórico no se ordenara correctamente.
 
-### Versión 1.0
+#### Versión 1.0
 
 Publicación inicial de la aplicación.
 
@@ -52,3 +60,18 @@ Publicación inicial de la aplicación.
 	- Funcionalidad para añadir pasos tras la tirada inicial, como añadir o quitar dados, volver a tirar ciertos dados, o reemplazar resultados en ciertos dados.
 	- Persistencia en disco para tiradas, ya sea para consultarlas en el histórico o bien para volver a realizar una tirada con los mismos parámetros.
 	- Ajustes que permiten definir una tirada por defecto para pre-rellenar los parámetros de la tirada. Siempre pueden cambiarse antes de realizar la tirada en sí.
+
+### Android
+
+#### Versión 1.0
+
+Publicación inicial de la aplicación. Equivalente a la versión 1.1.1 en iOS
+
+* Funcionalidades incluidas:
+	- Funcionalidad de tirada de dados para realizar una única tirada con múltiples dados.
+	- Funcionalidad para computar distintos resultados de una tiradda, incluyendo sumar dados, concatenar dígitos y contar éxitos/fracasos con umbrales.
+	- Funcionalidad para añadir pasos tras la tirada inicial, como añadir o quitar dados, volver a tirar ciertos dados, o reemplazar resultados en ciertos dados.
+	- Persistencia en disco para tiradas, ya sea para consultarlas en el histórico o bien para volver a realizar una tirada con los mismos parámetros.
+	- Ajustes que permiten definir una tirada por defecto para pre-rellenar los parámetros de la tirada. Siempre pueden cambiarse antes de realizar la tirada en sí.
+	- Funcionalidad para sumar o restar un valor a una tirada de tipo "suma de dados" (entre 0 y 15).
+	- Funcionalidad para definir éxitos y críticos con comparaciones "mayor o igual", "igual" o "menor o igual" a un valor del dado. Compatible con juegos D20 tipo Infinity®.
