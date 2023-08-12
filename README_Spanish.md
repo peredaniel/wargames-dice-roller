@@ -16,7 +16,7 @@ Esta política de privacidad rige el use de la aplicación de software _Wargames
 
 ### ¿Qué información recolecta la Aplicación y para qué se usa? 
 
-La Aplicación no recopila información de ningún tipo, ni del del dispositivo o del uso que se le da.
+La Aplicación no recopila información de ningún tipo, ni del dispositivo o del uso que se le da.
 
 ### Cambios
 
@@ -26,9 +26,9 @@ Esta Política de privacidad puede ser actualizada de vez en cuando por cualquie
 
 [Ver en la AppStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
 
-[Ver en la PlayStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
+[Ver en la PlayStore](https://play.google.com/store/apps/details?id=com.prietomartinez.wargamesdiceroller)
 
-Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 16 o superior** y **dispositivos Android usando Android 9 o superior**, y se encuentra disponible en las siguientes regiones:
+Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 16 o superior** y **dispositivos usando Android 9 o superior**, y se encuentra disponible en las siguientes regiones:
 * Europa (todos los países)
 
 ## Histórico de versiones

@@ -26,7 +26,7 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 [View in the AppStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
 
-[View in the PlayStore](https://apps.apple.com/app/wargames-dice-roller/id6448962936)
+[View in the PlayStore](https://play.google.com/store/apps/details?id=com.prietomartinez.wargamesdiceroller)
 
 The iOS app is currently compatible with **iPhone devices running iOS 16 or higher**. The Android app is compatible with devices running **Android 9 or higher**, and is available in the following stores:
 * Europe (all countries)
