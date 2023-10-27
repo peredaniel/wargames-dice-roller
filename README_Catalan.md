@@ -35,6 +35,10 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 16
 
 ### iOS
 
+#### Version 1.2
+
+* Implementades guies d'usuari en diverses pantalles.
+
 #### Versió 1.1.1
 
 * Correcció d'alguns errors en textos sorgits en l'anterior actualització.
@@ -62,6 +66,12 @@ Publicació inicial de l'aplicació.
 	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
 
 ### Android
+
+#### Version 1.1
+
+* Implementades guies d'usuari en diverses pantalles.
+* Afegides animacions en interactuar amb alguns elements en pantalla per a millorar l'experiència d'usuari.
+* Arreglat un error pel qual les barres superior i inferior apareixien translúcides.. 
 
 #### Versió 1.0
 

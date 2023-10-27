@@ -35,6 +35,10 @@ The iOS app is currently compatible with **iPhone devices running iOS 16 or high
 
 ### iOS
 
+#### Version 1.2
+
+* Implemented user guides on several screens.
+
 #### Version 1.1.1
 
 * Fix some errors on localized texts arising from the previous update.
@@ -62,6 +66,12 @@ Initial app release.
 	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
 
 ### Android
+
+#### Version 1.1
+
+* Implemented user guides on several screens.
+* Added animations when interacting with some screen elements to improve user experience.
+* Fixed a bug causing the bottom and top bars to appear translucent. 
 
 #### Version 1.0
 
