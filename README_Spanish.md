@@ -69,8 +69,8 @@ Publicación inicial de la aplicación.
 
 #### Versión 1.2
 
-* Implementada funcionalitad de deslizamiento para eliminar pasos en la secuencia post-tirada.
-* Implementada funcionalitad para reordenar los pasos en la secuencia post-tirada.
+* Implementada funcionalidad de deslizamiento para eliminar pasos en la secuencia post-tirada.
+* Implementada funcionalidad para reordenar los pasos en la secuencia post-tirada.
 
 #### Versión 1.1
 
