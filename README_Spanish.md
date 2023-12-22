@@ -35,7 +35,7 @@ Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 
 
 ### iOS
 
-#### Version 1.2
+#### Versión 1.2
 
 * Implementadas guías de usuario en varias pantallas.
 
@@ -67,7 +67,12 @@ Publicación inicial de la aplicación.
 
 ### Android
 
-#### Version 1.1
+#### Versión 1.2
+
+* Implementada funcionalitad de deslizamiento para eliminar pasos en la secuencia post-tirada.
+* Implementada funcionalitad para reordenar los pasos en la secuencia post-tirada.
+
+#### Versión 1.1
 
 * Implementadas guías de usuario en varias pantallas.
 * Añadidas animaciones al interactuar con algunos elementos en pantalla para mejorar la experiencia de usuario.

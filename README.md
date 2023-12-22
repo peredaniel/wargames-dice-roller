@@ -67,6 +67,11 @@ Initial app release.
 
 ### Android
 
+#### Version 1.2
+
+* Implemented swipe to delete steps in post-roll sequence.
+* Implemented reordering of steps in post-roll sequence.
+
 #### Version 1.1
 
 * Implemented user guides on several screens.
