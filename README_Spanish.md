@@ -67,6 +67,10 @@ Publicación inicial de la aplicación.
 
 ### Android
 
+#### Versió 1.2.1
+
+* Corregido un error por el cual el control para incrementar o reducir los valores de éxito y crítico no aparecía para tiradas de tipo "Éxitos / fracasos".
+
 #### Versión 1.2
 
 * Implementada funcionalidad de deslizamiento para eliminar pasos en la secuencia post-tirada.

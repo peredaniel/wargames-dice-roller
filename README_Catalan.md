@@ -67,6 +67,10 @@ Publicació inicial de l'aplicació.
 
 ### Android
 
+#### Versió 1.2.1
+
+* Arreglat un error pel qual el control per a incrementar o reduir els valors d'èxit i crític no apareixia per a tirades de tipus "Èxits / fracassos".
+
 #### Versió 1.2
 
 * Implementada funcionalitat de lliscament per a eliminar passos en la seqüència post-tirada.

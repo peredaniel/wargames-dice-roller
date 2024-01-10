@@ -67,6 +67,10 @@ Initial app release.
 
 ### Android
 
+#### Version 1.2.1
+
+* Fixed an issue causing the stepper to increase or decrease success and critical values not appearing for "Successes / failures" rolls.
+
 #### Version 1.2
 
 * Implemented swipe to delete steps in post-roll sequence.
