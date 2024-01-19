@@ -35,6 +35,17 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 16
 
 ### iOS
 
+#### Versió 1.3
+
+* Noves funcionalitats:
+	- Afegida funcionalitat per a guardar diverses configuracions de tirada als "Ajustos" per a ser carregades en la pestanya "Llençar daus".
+	- Afegida funcionalitat als "Ajustos" per a canviar la configuració de tirada per defecte que es precarrega en la pestanya "Llençar daus".
+	- Afegit un menú per a seleccionar la configuració de tirada a carregar en la pestanya "Llençar daus".
+
+* Correccions d'errors:
+	- Corregit un error que causava que l'aplicació es tanqués en seleccionar un tipus de daus amb un nombre de cares inferior al valor actual del llindar d'èxit en la pantalla d'ajustos de tirada.
+	- Corregit un error que causava que el valor del llindar de crítics no fós actualitzat en canviar el tipus de dau seleccionat a un tipus amb un nombre de cares inferior que el valor actual.
+
 #### Versió 1.2
 
 * Implementades guies d'usuari en diverses pantalles.

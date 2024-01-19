@@ -35,6 +35,17 @@ Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 
 
 ### iOS
 
+#### Versión 1.3
+
+* Nuevas funcionalidades:
+	- Añadida funcionalidad para guardar diversas configuraciones de tirada en los "Ajustes" para que sean cargadas en la pestaña "Tirar dados".
+	- Añadida funcionalidad en los "Ajustes" para cambiar la configuración de tirada por defecte que se precarga en la pestaña "Tirar dados".
+	- Añadido un menú para seleccionar la configuración de tirada a cargar en la pestaña "Tirar dados".
+
+* Corrección de errores:
+	- Corregido un error que causaba que la aplicación se cerrara al seleccionar un tipo de dado con un número de caras inferior al valor actual del umbral de éxito en la pantalla de ajustes de tirada.
+	- Corregido un error que causaba que el valor del umbral de críticos no se actualizara al cambiar el tipo de dado seleccionado a un tipo con un número de caras inferior al valor actual.
+
 #### Versión 1.2
 
 * Implementadas guías de usuario en varias pantallas.

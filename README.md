@@ -35,6 +35,17 @@ The iOS app is currently compatible with **iPhone devices running iOS 16 or high
 
 ### iOS
 
+#### Version 1.3
+
+* New features:
+	- Added functionality to store several roll configurations in "Settings" to be used in the "Roll dices" tab.
+	- Added functionality in "Settings" to change the default roll configuration in use in the "Roll dices" tab.
+	- Added a menu to select the roll configuration to be used in the "Roll dices" tab.
+
+* Bugfixes:
+	- Fixed an issue causing the app to crash when selecting a dice type with a number of faces lower than the current success threshold in the roll settings screen.
+	- Fixed an issue causing the app to not update the critical threshold value when changing selected dice type to a type with a number of faces lower than the current value.
+
 #### Version 1.2
 
 * Implemented user guides on several screens.
@@ -49,7 +60,7 @@ The iOS app is currently compatible with **iPhone devices running iOS 16 or high
 	- Added functionality to add or subtract a value to the result of a "sum dice values" roll (between 0 and 15).
 	- Added functionality to define successes and criticals with comparisons of the type "greater or equal than", "equal to" and "lower or equal than" a dice value. Compatible with D20 games such as Infinity®.
 
-* Bugfixes
+* Bugfixes:
 	- Fixed computation of successes and criticals: now criticals are a particular case of successes, rather than an independent result.
 	- Fixed some translations typos.
 	- Fixed an issue causing the History Log to be sorted incorrectly.
