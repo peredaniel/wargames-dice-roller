@@ -78,6 +78,17 @@ Initial app release.
 
 ### Android
 
+#### Version 1.3
+
+* New features:
+	- Added functionality to store several roll configurations in "Settings" to be used in the "Roll dices" tab.
+	- Added functionality in "Settings" to change the default roll configuration in use in the "Roll dices" tab.
+	- Added a menu to select the roll configuration to be used in the "Roll dices" tab.
+
+* Bugfixes:
+	- Fixed an issue causing the app to crash when selecting a dice type with a number of faces lower than the current success threshold in the roll settings screen.
+	- Fixed an issue causing the app to not update the critical threshold value when changing selected dice type to a type with a number of faces lower than the current value.
+
 #### Version 1.2.1
 
 * Fixed an issue causing the stepper to increase or decrease success and critical values not appearing for "Successes / failures" rolls.
