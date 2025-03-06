@@ -35,6 +35,16 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 16
 
 ### iOS
 
+#### Versió 1.4
+
+* Noves funcionalitats:
+    - Afegida funcionalitat per a realitzar seqüències de tirades.
+    - Redisenyada la pantalla "Històric" per a incloure "Sèries de tirades".
+    - Alineada interfície d'usuari amb Android.
+
+* Correccions d'errors:
+    - Correccions menors i optimitzacions.
+
 #### Versió 1.3
 
 * Noves funcionalitats:
@@ -77,6 +87,16 @@ Publicació inicial de l'aplicació.
 	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
 
 ### Android
+
+#### Versió 1.4
+
+* Noves funcionalitats:
+    - Afegida funcionalitat per a realitzar seqüències de tirades.
+    - Redisenyada la pantalla "Històric" per a incloure "Sèries de tirades".
+    - Alineada interfície d'usuari amb iOS.
+
+* Correccions d'errors:
+    - Correccions menors i optimitzacions.
 
 #### Versió 1.3
 

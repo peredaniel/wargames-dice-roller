@@ -35,6 +35,16 @@ The iOS app is currently compatible with **iPhone devices running iOS 16 or high
 
 ### iOS
 
+#### Version 1.4
+
+* New features:
+    - Added functionality to perform a sequence of rolls.
+    - Redesigned "Roll history" to include "Roll series".
+    - Aligned user interface with Android app.
+
+* Bugfixes:
+    - Minor bug fixes and optimizations.
+
 #### Version 1.3
 
 * New features:
@@ -77,6 +87,16 @@ Initial app release.
 	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
 
 ### Android
+
+#### Version 1.4
+
+* New features:
+    - Added functionality to perform a sequence of rolls.
+    - Redesigned "Roll history" to include "Roll series".
+    - Aligned user interface with iOS app.
+
+* Bugfixes:
+    - Minor bug fixes and optimizations.
 
 #### Version 1.3
 
