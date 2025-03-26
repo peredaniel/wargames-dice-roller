@@ -88,6 +88,10 @@ Initial app release.
 
 ### Android
 
+#### Version 1.4.1
+
+* Fixed an issue causing some Roll Series to not be deleted when clearing the Roll History.
+
 #### Version 1.4
 
 * New features:

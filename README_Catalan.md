@@ -88,6 +88,10 @@ Publicació inicial de l'aplicació.
 
 ### Android
 
+#### Versió 1.4.1
+
+* Arreglat un error pel qual algunes Sèries de tirades no s'esborraven en eliminar l'Històric.
+
 #### Versió 1.4
 
 * Noves funcionalitats:
