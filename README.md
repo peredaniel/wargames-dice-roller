@@ -35,6 +35,12 @@ The iOS app is currently compatible with **iPhone devices running iOS 16 or high
 
 ### iOS
 
+#### Version 1.5
+
+* Adapted user interface for Liquid Glass UI.
+* Code optimizations and improved performance.
+* Increase minimum iOS version to 17.
+
 #### Version 1.4
 
 * New features:
@@ -87,6 +93,10 @@ Initial app release.
 	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
 
 ### Android
+
+#### Version 1.5
+
+* Code optimizations and improved performance.
 
 #### Version 1.4.1
 

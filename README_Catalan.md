@@ -35,6 +35,12 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 16
 
 ### iOS
 
+#### Versió 1.5
+
+* Adaptació d'interfície d'usuari a Liquid Glass UI.
+* Optimitzacions de codi i millores de rendiment.
+* Increment de versió mínima de iOS a 17.
+
 #### Versió 1.4
 
 * Noves funcionalitats:
@@ -87,6 +93,10 @@ Publicació inicial de l'aplicació.
 	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
 
 ### Android
+
+#### Versió 1.5
+
+* Optimitzacions de codi i millores de rendiment.
 
 #### Versió 1.4.1
 
