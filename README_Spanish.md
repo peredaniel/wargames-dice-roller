@@ -8,11 +8,11 @@ Esta es la versión en español del README. También disponemos de una versión 
 
 ¿Tienes alguna idea para futuros desarrollos? ¿Has encontrado algún bug que se le escapó a nuestro equipo de pruebas? Si tienes una cuenta de GitHub por favor no dudes en abrir una "Issue" con tu idea o el fallo encontrado.
 
-Cuando reportes un error, por favor incluye tanta información relevante y no personal como sea posible, tal como el modelo de dispositivo, versión de iOS y versión de la app (ésta se puede encontrar en la pestaña "Ajustes").
+Cuando reportes un error, por favor incluye tanta información relevante y no personal como sea posible, tal como el modelo de dispositivo, versión de iOS/Android y versión de la app (ésta se puede encontrar en la pestaña "Ajustes").
 
 ## Política de privacidad
 
-Esta política de privacidad rige el use de la aplicación de software _Wargames Dice Roller_ ("Aplicación") para dispositivos iOS y Android.
+Esta política de privacidad rige el uso de la aplicación de software _Wargames Dice Roller_ ("Aplicación") para dispositivos iOS y Android.
 
 ### ¿Qué información recolecta la Aplicación y para qué se usa? 
 

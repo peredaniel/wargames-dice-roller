@@ -8,7 +8,7 @@ Aquesta és la versión en català del README. També disposem d'una versión en
 
 Tens alguna idea per a futurs desenvolupaments? Algun error lleig que se'ls hagi escapat al nostre equip de proves? Si disposes d'un compte de GitHub no dubtis en obrir una "Issue" amb la teva idea o amb l'error que has trobat!
 
-Quan ens informis d'un error, si us plau inclou el màxim d'informació no personal que sigui rellevant per a reproduïr-lo, com ara el model de dispositiu, la versión de iOS i la versió de l'aplicació (aquesta es pot trobar a la pestanya "Ajustos").
+Quan ens informis d'un error, si us plau inclou el màxim d'informació no personal que sigui rellevant per a reproduïr-lo, com ara el model de dispositiu, la versió de iOS/Android i la versió de l'aplicació (aquesta es pot trobar a la pestanya "Ajustos").
 
 ## Política de Privacitat
 

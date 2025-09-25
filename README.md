@@ -8,7 +8,7 @@ This is the English version of the README. We also have a [Spanish](README_Spani
 
 Do you have any ideas for future developments? Did you find a nasty bug that escaped our testing team? If you do have a GitHub account, please feel free to open an issue with your idea or your bug!
 
-When reporting a bug, please include as much relevant non-personal information as possible, such as device model, iOS version and app version (can be found in "Settings" tab).
+When reporting a bug, please include as much relevant non-personal information as possible, such as device model, iOS/Android version and app version (can be found in "Settings" tab).
 
 ## Privacy policy
 
@@ -28,7 +28,7 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 [View in the PlayStore](https://play.google.com/store/apps/details?id=com.prietomartinez.wargamesdiceroller)
 
-The iOS app is currently compatible with **iPhone devices running iOS 17 or higher**. The Android app is compatible with devices running **Android 9 or higher**, and is available in the following stores:
+The iOS app is currently compatible with **iPhone devices running iOS 17 or higher**. The Android app is compatible with devices running **Android 9 or higher**. Both are available in the following stores:
 * Europe (all countries)
 
 ## Version history
