@@ -28,7 +28,7 @@ Aquesta Política de Privacitat pot veure's actualitzada de tant en tant per qua
 
 [Vegeu-la en la PlayStore](https://play.google.com/store/apps/details?id=com.prietomartinez.wargamesdiceroller)
 
-Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 16 o superior** i **dispositius amb Android 9 o superior**, i es troba disponible en les regions següents:
+Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 17 o superior** i **dispositius amb Android 9 o superior**, i es troba disponible en les regions següents:
 * Europa (tots els països)
 
 ## Històric de versions
