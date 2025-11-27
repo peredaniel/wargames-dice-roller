@@ -98,6 +98,11 @@ Publicació inicial de l'aplicació.
 
 ### Android
 
+#### Versió 1.5.1
+
+* Corregit un error que causava que la descripció d'una tirada no s'actualitzés en canviar-ne el tipus per a una sèrie.
+* Corregit un error on s'usava la capçalera errònia en la llista de configuracions de tirada.
+
 #### Versió 1.5
 
 * Optimitzacions de codi i millores de rendiment.

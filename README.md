@@ -98,6 +98,11 @@ Initial app release.
 
 ### Android
 
+#### Version 1.5.1
+
+* Fixed an issue causing the roll description not to update when updating its type for a roll series.
+* Fixed wrong header in roll configurations list.
+
 #### Version 1.5
 
 * Code optimizations and improved performance.
