@@ -35,6 +35,10 @@ The iOS app is currently compatible with **iPhone devices running iOS 17 or high
 
 ### iOS
 
+#### Version 1.5.1
+
+* Fixed an issue causing the roll description not to update when updating its type for a roll series.
+
 #### Version 1.5
 
 * Adapted user interface for Liquid Glass UI.

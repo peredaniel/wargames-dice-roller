@@ -35,6 +35,10 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 17
 
 ### iOS
 
+#### Versió 1.5.1
+
+* Corregit un error que causava que la descripció d'una tirada no s'actualitzés en canviar-ne el tipus per a una sèrie.
+
 #### Versió 1.5
 
 * Adaptació d'interfície d'usuari a Liquid Glass UI.
