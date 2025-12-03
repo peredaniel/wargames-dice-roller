@@ -35,6 +35,10 @@ Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 
 
 ### iOS
 
+#### Versión 1.5.2
+
+* Corregido un error crítico que causaba que la aplicación se cerrara inesperadamente cuando una tirada dentro de una serie no tenía dados para lanzar como resultado de una tirada anterior.
+
 #### Versión 1.5.1
 
 * Corregido un error que causaba que la descripción de una tirada no se actualizara al cambiar su tipo para una serie.
