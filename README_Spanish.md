@@ -102,6 +102,10 @@ Publicación inicial de la aplicación.
 
 ### Android
 
+#### Versión 1.5.2
+
+* Corregido un error que causaba que la interficie de usuario no mostrara correctamente los detalles de una tirada sin dados a tirar dentro de una serie como resultado de una tirada anterior.
+
 #### Versión 1.5.1
 
 * Corregido un error que causaba que la descripción de una tirada no se actualizara al cambiar su tipo para una serie.

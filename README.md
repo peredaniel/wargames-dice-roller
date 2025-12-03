@@ -102,6 +102,10 @@ Initial app release.
 
 ### Android
 
+#### Version 1.5.2
+
+* Fixed an issue causing the UI to not display properly details for rolls within a series that had no dices to roll as a result of a previous roll.
+
 #### Version 1.5.1
 
 * Fixed an issue causing the roll description not to update when updating its type for a roll series.
