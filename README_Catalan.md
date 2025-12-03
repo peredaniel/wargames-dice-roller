@@ -37,7 +37,7 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 17
 
 #### Versió 1.5.2
 
-* Corregit un error crític que causava que l'aplicació es tanqués inesperadament quan una tirada dins d'una sèrie tenia no tenia daus a llençar com a resultat d'una tirada anterior.
+* Corregit un error crític que causava que l'aplicació es tanqués inesperadament quan una tirada dins d'una sèrie no tenia daus a llençar com a resultat d'una tirada anterior.
 
 #### Versió 1.5.1
 

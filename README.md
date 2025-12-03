@@ -37,7 +37,7 @@ The iOS app is currently compatible with **iPhone devices running iOS 17 or high
 
 #### Version 1.5.2
 
-* Fixed a critical issue causing the app to crash when a roll within a series had no dices to roll as a result of a previous roll.
+* Fixed a critical issue causing the app to close unexpectedly when a roll within a series had no dices to roll as a result of a previous roll.
 
 #### Version 1.5.1
 
