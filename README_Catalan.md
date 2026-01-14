@@ -115,7 +115,6 @@ Publicació inicial de l'aplicació.
 	- Afegida funcionalitat per a aplicar efectes crítics a sèries de tirades, de manera que els resultats crítics en una tirada afecten la mateixa tirada o alguna de les següents en la sèrie.
 	- Actualitzades guies d'usuari.
 
-
 * Correccions d'errors:
 	- Corregit un error que causava que el botó "Buidar històric" no s'activés quan només hi havia sèries de tirades en l'Històric.
 	- Corregit un error en el format de la guia d'usuari per a configurar sèries de tirades.

@@ -116,7 +116,7 @@ Publicación inicial de la aplicación.
 	- Actualizadas guías de usuario.
 
 * Corrección de errores:
-	- Corregido un error que causaba que el botón "Vaciar histórico" no se activara cuando sólo había series de tiradas en el Histórico..
+	- Corregido un error que causaba que el botón "Vaciar histórico" no se activara cuando sólo había series de tiradas en el Histórico.
 
 #### Versión 1.5.2
 
