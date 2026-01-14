@@ -35,6 +35,12 @@ Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 
 
 ### iOS
 
+#### Versión 1.6
+
+* Añadida funcionalidad para contar resultados críticos en tiradas dentro de una serie.
+* Añadida funcionalidad para aplicar efectos críticos a series de tiradas, de forma que los resultados críticos en una tirada afectan la misma tirada o alguna de las siguientes en la serie.
+* Actualizadas guías de usuario.
+
 #### Versión 1.5.2
 
 * Corregido un error crítico que causaba que la aplicación se cerrara inesperadamente cuando una tirada dentro de una serie no tenía dados para lanzar como resultado de una tirada anterior.
@@ -101,6 +107,16 @@ Publicación inicial de la aplicación.
 	- Ajustes que permiten definir una tirada por defecto para pre-rellenar los parámetros de la tirada. Siempre pueden cambiarse antes de realizar la tirada en sí.
 
 ### Android
+
+#### Versión 1.6
+
+* Nuevas funcionalidades:
+	- Añadida funcionalidad para contar resultados críticos en tiradas dentro de una serie.
+	- Añadida funcionalidad para aplicar efectos críticos a series de tiradas, de forma que los resultados críticos en una tirada afectan la misma tirada o alguna de las siguientes en la serie.
+	- Actualizadas guías de usuario.
+
+* Corrección de errores:
+	- Corregido un error que causaba que el botón "Vaciar histórico" no se activara cuando sólo había series de tiradas en el Histórico..
 
 #### Versión 1.5.2
 

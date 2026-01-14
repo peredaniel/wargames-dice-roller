@@ -35,6 +35,12 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 17
 
 ### iOS
 
+#### Versió 1.6
+
+* Afegida funcionalitat per a comptar resultats crítics en tirades dins d'una sèrie.
+* Afegida funcionalitat per a aplicar efectes crítics a sèries de tirades, de manera que els resultats crítics en una tirada afecten la mateixa tirada o alguna de les següents en la sèrie.
+* Actualitzades guies d'usuari.
+
 #### Versió 1.5.2
 
 * Corregit un error crític que causava que l'aplicació es tanqués inesperadament quan una tirada dins d'una sèrie no tenia daus a llençar com a resultat d'una tirada anterior.
@@ -101,6 +107,18 @@ Publicació inicial de l'aplicació.
 	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
 
 ### Android
+
+#### Versió 1.6
+
+* Noves funcionalitats:
+	- Afegida funcionalitat per a comptar resultats crítics en tirades dins d'una sèrie.
+	- Afegida funcionalitat per a aplicar efectes crítics a sèries de tirades, de manera que els resultats crítics en una tirada afecten la mateixa tirada o alguna de les següents en la sèrie.
+	- Actualitzades guies d'usuari.
+
+
+* Correccions d'errors:
+	- Corregit un error que causava que el botó "Buidar històric" no s'activés quan només hi havia sèries de tirades en l'Històric.
+	- Corregit un error en el format de la guia d'usuari per a configurar sèries de tirades.
 
 #### Versió 1.5.2
 

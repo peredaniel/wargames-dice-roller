@@ -35,6 +35,12 @@ The iOS app is currently compatible with **iPhone devices running iOS 17 or high
 
 ### iOS
 
+#### Version 1.6
+
+* Added functionality to count critical results on rolls within a series.
+* Added functionality to apply critical effects to roll series, so that critical results on a roll affect the same or upcoming rolls in the series.
+* Updated user guides.
+
 #### Version 1.5.2
 
 * Fixed a critical issue causing the app to close unexpectedly when a roll within a series had no dices to roll as a result of a previous roll.
@@ -101,6 +107,16 @@ Initial app release.
 	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
 
 ### Android
+
+#### Version 1.6
+
+* New features:
+	- Added functionality to count critical results on rolls within a series.
+	- Added functionality to apply critical effects to roll series, so that critical results on a roll affect the same or upcoming rolls in the series.
+	- Updated user guides.
+
+* Bugfixes:
+	- Fixed an issue causing the "Clear History" button to not enable when only roll series were stored in the History.
 
 #### Version 1.5.2
 
