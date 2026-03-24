@@ -35,6 +35,12 @@ Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 
 
 ### iOS
 
+#### Versión 1.7
+
+* Revisión y actualización de la interfaz de usuario.
+* Actualizados algunos textos no traducidos al castellano en la versión anterior.
+* Corregido un error que causaba que las configuraciones de tirada no guardaran correctamente el número de dados.
+
 #### Versión 1.6
 
 * Añadida funcionalidad para contar resultados críticos en tiradas dentro de una serie.
@@ -107,6 +113,13 @@ Publicación inicial de la aplicación.
 	- Ajustes que permiten definir una tirada por defecto para pre-rellenar los parámetros de la tirada. Siempre pueden cambiarse antes de realizar la tirada en sí.
 
 ### Android
+
+#### Versión 1.7
+
+* Revisión y actualización de la interfaz de usuario.
+* Actualizados algunos textos no traducidos al castellano en la versión anterior.
+* Corregido un error que causaba que algunos dados no se descartaran correctamente en el resultado final de una tirada.
+* Mejoras de rendimiento.
 
 #### Versión 1.6
 

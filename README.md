@@ -35,6 +35,11 @@ The iOS app is currently compatible with **iPhone devices running iOS 17 or high
 
 ### iOS
 
+#### Version 1.7
+
+* Reviewed and updated user interface across the app.
+* Fixed an issue causing roll configurations to sometimes not save the dice number.
+
 #### Version 1.6
 
 * Added functionality to count critical results on rolls within a series.
@@ -107,6 +112,12 @@ Initial app release.
 	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
 
 ### Android
+
+#### Version 1.7
+
+* Reviewed and updated user interface accross the app.
+* Fixed an issue causing dices not being discarded properly in the roll final result.
+* Performance improvements.
 
 #### Version 1.6
 

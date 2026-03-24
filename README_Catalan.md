@@ -35,6 +35,12 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 17
 
 ### iOS
 
+#### Versió 1.7
+
+* Revisió i actualització de la interfície d'usuari.
+* Actualitzats alguns texts no traduïts al català en la versió anterior.
+* Corregit un error que causava que les configuracions de tirada no guardessin correctament el nombre de daus.
+
 #### Versió 1.6
 
 * Afegida funcionalitat per a comptar resultats crítics en tirades dins d'una sèrie.
@@ -107,6 +113,13 @@ Publicació inicial de l'aplicació.
 	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
 
 ### Android
+
+#### Versió 1.7
+
+* Revisió i actualització de la interfície d'usuari.
+* Actualitzats alguns texts no traduïts al català en la versió anterior.
+* Corregit un error que causava que alguns daus no es descartessin correctament en el resultat final d'una tirada.
+* Millores de rendiment.
 
 #### Versió 1.6
 
