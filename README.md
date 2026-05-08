@@ -35,6 +35,12 @@ The iOS app is currently compatible with **iPhone devices running iOS 17 or high
 
 ### iOS
 
+#### Version 1.8
+
+* Full accessibility support: VoiceOver labels, hints, and traits throughout the app for a better experience with assistive technologies.
+* Improved Liquid Glass support.
+* Performance improvements across the app.
+
 #### Version 1.7
 
 * Reviewed and updated user interface across the app.
@@ -112,6 +118,11 @@ Initial app release.
 	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
 
 ### Android
+
+#### Version 1.8
+
+* Full accessibility support: all screens and components now include content descriptions for screen readers, making the app usable with TalkBack and other assistive technologies.
+* Performance improvements across the app.
 
 #### Version 1.7
 

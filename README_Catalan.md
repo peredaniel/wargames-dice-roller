@@ -35,6 +35,12 @@ Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 17
 
 ### iOS
 
+#### Versió 1.8
+
+* Accessibilitat completa: etiquetes, descripcions i traits de VoiceOver a tota l'app per a una millor experiència amb tecnologies d'assistència.
+* Millora de suport per a Liquid Glass.
+* Millores de rendiment a tota l'aplicació.
+
 #### Versió 1.7
 
 * Revisió i actualització de la interfície d'usuari.
@@ -113,6 +119,11 @@ Publicació inicial de l'aplicació.
 	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
 
 ### Android
+
+#### Versió 1.8
+
+* Suport complet d'accessibilitat: totes les pantalles i components inclouen ara descripcions de contingut per a lectors de pantalla, fent l'app compatible amb TalkBack i altres tecnologies d'assistència.
+* Millores de rendiment a tota l'aplicació.
 
 #### Versió 1.7
 
