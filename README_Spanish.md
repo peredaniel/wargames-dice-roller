@@ -28,12 +28,18 @@ Esta Política de privacidad puede ser actualizada de vez en cuando por cualquie
 
 [Ver en la PlayStore](https://play.google.com/store/apps/details?id=com.prietomartinez.wargamesdiceroller)
 
-Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 17 o superior** y **dispositivos usando Android 9 o superior**, y se encuentra disponible en las siguientes regiones:
+Esta aplicación es actualmente compatible con **dispositivos iPhone usando iOS 17 o superior** y **dispositivos usando Android 8 o superior**, y se encuentra disponible en las siguientes regiones:
 * Europa (todos los países)
 
 ## Histórico de versiones
 
 ### iOS
+
+#### Versión 1.9
+
+* Efectos críticos en tiradas simples: en el modo Éxitos/Fallos con los críticos activados, cada resultado crítico puede añadir éxitos adicionales a la tirada actual.
+* Pasos post-tirada en las series de tiradas: cada tirada de una serie puede tener ahora su propia secuencia de pasos post-tirada (añadir, descartar, reemplazar o volver a tirar dados), configurable desde una nueva pantalla de Opciones por tirada, junto a sus efectos de crítico.
+* Mejoras de rendimiento y estabilidad.
 
 #### Versión 1.8
 
@@ -119,6 +125,13 @@ Publicación inicial de la aplicación.
 	- Ajustes que permiten definir una tirada por defecto para pre-rellenar los parámetros de la tirada. Siempre pueden cambiarse antes de realizar la tirada en sí.
 
 ### Android
+
+#### Versión 1.9
+
+* Efectos críticos en tiradas simples: en el modo Éxitos/Fallos con los críticos activados, cada resultado crítico puede añadir éxitos adicionales a la tirada actual.
+* Pasos post-tirada en las series de tiradas: cada tirada de una serie puede tener ahora su propia secuencia de pasos post-tirada (añadir, descartar, reemplazar o volver a tirar dados), configurable desde una nueva pantalla de Opciones por tirada, junto a sus efectos de crítico.
+* La versión mínima de Android requerida se ha reducido a Android 8.
+* Mejoras de rendimiento y estabilidad.
 
 #### Versión 1.8
 

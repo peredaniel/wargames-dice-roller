@@ -28,12 +28,18 @@ Aquesta Política de Privacitat pot veure's actualitzada de tant en tant per qua
 
 [Vegeu-la en la PlayStore](https://play.google.com/store/apps/details?id=com.prietomartinez.wargamesdiceroller)
 
-Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 17 o superior** i **dispositius amb Android 9 o superior**, i es troba disponible en les regions següents:
+Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 17 o superior** i **dispositius amb Android 8 o superior**, i es troba disponible en les regions següents:
 * Europa (tots els països)
 
 ## Històric de versions
 
 ### iOS
+
+#### Versió 1.9
+
+* Efectes crítics a les tirades simples: en el mode Èxits/Errors amb els crítics activats, cada resultat crític pot afegir èxits addicionals a la tirada actual.
+* Passos post-tirada a les sèries de tirades: cada tirada d'una sèrie pot tenir ara la seva pròpia seqüència de passos post-tirada (afegir, descartar, reemplaçar o tornar a tirar daus), configurable des d'una nova pantalla d'Opcions per tirada, al costat dels seus efectes de crític.
+* Millores de rendiment i estabilitat.
 
 #### Versió 1.8
 
@@ -119,6 +125,13 @@ Publicació inicial de l'aplicació.
 	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
 
 ### Android
+
+#### Versió 1.9
+
+* Efectes crítics a les tirades simples: en el mode Èxits/Errors amb els crítics activats, cada resultat crític pot afegir èxits addicionals a la tirada actual.
+* Passos post-tirada a les sèries de tirades: cada tirada d'una sèrie pot tenir ara la seva pròpia seqüència de passos post-tirada (afegir, descartar, reemplaçar o tornar a tirar daus), configurable des d'una nova pantalla d'Opcions per tirada, al costat dels seus efectes de crític.
+* La versió mínima requerida d'Android s'ha reduït a Android 8.
+* Millores de rendiment i estabilitat.
 
 #### Versió 1.8
 

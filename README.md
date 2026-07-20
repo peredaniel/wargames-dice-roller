@@ -28,12 +28,18 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 [View in the PlayStore](https://play.google.com/store/apps/details?id=com.prietomartinez.wargamesdiceroller)
 
-The iOS app is currently compatible with **iPhone devices running iOS 17 or higher**. The Android app is compatible with devices running **Android 9 or higher**. Both are available in the following stores:
+The iOS app is currently compatible with **iPhone devices running iOS 17 or higher**. The Android app is compatible with devices running **Android 8 or higher**. Both are available in the following stores:
 * Europe (all countries)
 
 ## Version history
 
 ### iOS
+
+#### Version 1.9
+
+* Critical effects for single rolls — in Successes/Failures mode with criticals enabled, each critical result can now add extra successes to your current roll.
+* Post-roll steps in roll series — every roll in a series can now have its own sequence of steps (add, discard, replace, or reroll dice), set up from a new per-roll Options screen alongside its critical effects.
+* Performance and reliability improvements.
 
 #### Version 1.8
 
@@ -118,6 +124,13 @@ Initial app release.
 	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
 
 ### Android
+
+#### Version 1.9
+
+* Critical effects for single rolls — in Successes/Failures mode with criticals enabled, each critical result can now add extra successes to your current roll.
+* Post-roll steps in roll series — every roll in a series can now have its own sequence of steps (add, discard, replace, or reroll dice), set up from a new per-roll Options screen alongside its critical effects.
+* Minimum required Android version has been lowered to Android 8.
+* Performance and reliability improvements.
 
 #### Version 1.8
 
