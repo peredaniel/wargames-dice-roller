@@ -28,12 +28,18 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 [View in the PlayStore](https://play.google.com/store/apps/details?id=com.prietomartinez.wargamesdiceroller)
 
-The iOS app is currently compatible with **iPhone devices running iOS 17 or higher**. The Android app is compatible with devices running **Android 8 or higher**. Both are available in the following stores:
+The iOS app is currently compatible with **iPhone devices running iOS 18 or higher**. The Android app is compatible with devices running **Android 8 or higher**. Both are available in the following stores:
 * Europe (all countries)
 
 ## Version history
 
 ### iOS
+
+#### Version 1.9.1
+
+* iPhone Duo support — unfold your iPhone Duo to see two panes at once: your roll configuration and its result, your roll history and the selected roll, and your roll series templates and their details. Folding and unfolding keeps you right where you left off.
+* Lists with a floating button now leave room to scroll their last item fully into view.
+* Performance and reliability improvements.
 
 #### Version 1.9
 
@@ -124,6 +130,10 @@ Initial app release.
 	- Settings allow to define a default roll that will prefill the roll parameters. They may always be changed before rolling.
 
 ### Android
+
+#### Version 1.9.1
+
+* Performance and reliability improvements.
 
 #### Version 1.9
 

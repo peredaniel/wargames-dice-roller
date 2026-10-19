@@ -28,12 +28,18 @@ Aquesta Política de Privacitat pot veure's actualitzada de tant en tant per qua
 
 [Vegeu-la en la PlayStore](https://play.google.com/store/apps/details?id=com.prietomartinez.wargamesdiceroller)
 
-Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 17 o superior** i **dispositius amb Android 8 o superior**, i es troba disponible en les regions següents:
+Aquesta aplicació és actualment compatible amb **dispositius iPhone amb iOS 18 o superior** i **dispositius amb Android 8 o superior**, i es troba disponible en les regions següents:
 * Europa (tots els països)
 
 ## Històric de versions
 
 ### iOS
+
+#### Versió 1.9.1
+
+* Compatibilitat amb l'iPhone Duo: en desplegar l'iPhone Duo veuràs dos panells alhora: la configuració de la tirada amb el seu resultat, l'històric amb la tirada seleccionada i les plantilles de sèries de tirades amb els seus detalls. En plegar-lo i desplegar-lo, continues just on ho havies deixat.
+* Les llistes amb botó flotant ara deixen espai per veure el seu darrer element sencer.
+* Millores de rendiment i estabilitat.
 
 #### Versió 1.9
 
@@ -125,6 +131,11 @@ Publicació inicial de l'aplicació.
 	- Ajustos que permeten definir una tirada per defecte per a pre-omplir els paràmetres de la tirada. Sempre es poden canviar abans de realitzar la tirada en sí.
 
 ### Android
+
+#### Versió 1.9.1
+
+* Corregits alguns texts no traduïts al català a l'històric de tirades.
+* Millores de rendiment i estabilitat.
 
 #### Versió 1.9
 
